@@ -1,0 +1,4 @@
+Modelos 3D y librea de aviones: FlightGear / FGAddon (https://wiki.flightgear.org/FGAddon), licencia GNU GPL v2 o posterior
+(texto en https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). Los modelos se han convertido a glTF, simplificado su geometria y
+comprimido sus texturas (WebP). Autores y enlaces al codigo fuente de cada modelo: ver CREDITS.json y Ajustes > Datos > Mas informacion.
+Los modelos y liveries originales estan disponibles en FGAddon.
