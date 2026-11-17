@@ -3,126 +3,162 @@
   "name": "Boeing 777",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/777/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/777/"
  },
  {
   "name": "Boeing 737NG",
   "author": "David Culp, Syd Adams, Innis Cunningham",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/737NG/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/737NG/"
  },
  {
   "name": "Airbus A320 family",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/A320-family/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/A320-family/"
  },
  {
   "name": "Boeing 787 family",
-  "author": "FlightGear community",
+  "author": "Iskender Wang y colaboradores",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/"
+  "url": "https://github.com/IskenderWang/787-family"
  },
  {
   "name": "Airbus A330",
-  "author": "FlightGear community",
+  "author": "JMaverick16, Josh Davidson (Octal450) y colaboradores",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/"
+  "url": "https://github.com/JMaverick16/Airbus_A330"
  },
  {
   "name": "Embraer E-Jet family",
-  "author": "Narendran Muraleedharan y colaboradores",
+  "author": "Narendran Muraleedharan (YV3399) y colaboradores",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/"
+  "url": "https://github.com/YV3399/E-jet-family-YV"
  },
  {
   "name": "Bombardier CRJ-200",
   "author": "Joshua Wilson, Nick I.",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/CRJ-200/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/CRJ-200/"
  },
  {
   "name": "Bombardier CRJ700/900",
   "author": "Ryan Miller, Henning S.",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/CRJ700-family/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/CRJ700-family/"
  },
  {
   "name": "Embraer ERJ-145",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/Embraer-ERJ-145/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/Embraer-ERJ-145/"
  },
  {
   "name": "Boeing 747-400",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/747-400/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/747-400/"
  },
  {
   "name": "Boeing 747-8i",
   "author": "John Williams, Grupo FGBr",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/747-8i/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/747-8i/"
  },
  {
   "name": "Boeing 757-200",
   "author": "Juuso Tapaninen, John Williams, Liam Gathercole, Skyop, Isaias Prestes",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/757-200/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/757-200/"
  },
  {
   "name": "Boeing 767-300",
   "author": "Liam Gathercole, Isaias V. Prestes, Juuso Tapaninen, John Williams",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/767-300/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/767-300/"
  },
  {
   "name": "McDonnell Douglas MD-80",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/MD-80/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/MD-80/"
  },
  {
   "name": "McDonnell Douglas MD-11",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/MD-11/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/MD-11/"
  },
  {
   "name": "McDonnell Douglas DC-10",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/DC-10/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/DC-10/"
  },
  {
   "name": "BAe 146",
   "author": "Emmanuel Baranger",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/BAe-146/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/BAe-146/"
  },
  {
   "name": "ATR 72-500",
   "author": "Ryan Miller",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/ATR-72-500/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/ATR-72-500/"
  },
  {
   "name": "De Havilland Dash 8",
   "author": "FlightGear community",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/DHC-8/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/DHC-8/"
  },
  {
   "name": "Airbus A340-600",
   "author": "Liam Gathercole",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/A340-600/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/A340-600/"
  },
  {
   "name": "Airbus A300-600",
   "author": "Toryx, Airbus330, Pierre Duval",
   "license": "GPL v2 o posterior",
-  "url": "https://sourceforge.net/p/flightgear/fgaddon/HEAD/tree/trunk/Aircraft/A300-600/"
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/A300-600/"
+ },
+ {
+  "name": "Boeing 737 NG (modelos 737-100/200/300/800)",
+  "author": "Colaboradores de FGAddon",
+  "license": "GPL v2 o posterior",
+  "url": "https://svn.code.sf.net/p/flightgear/fgaddon/trunk/Aircraft/"
+ },
+ {
+  "name": "Pinturas: A320-family-liveries",
+  "author": "Colaboradores del A320-family",
+  "license": "GPL v2 o posterior",
+  "url": "https://github.com/legoboyvdlp/A320-family"
+ },
+ {
+  "name": "Pinturas: Animuuu-FG-Liveries",
+  "author": "Animuuu",
+  "license": "GPL v2 o posterior",
+  "url": ""
+ },
+ {
+  "name": "Pinturas: IW-liveries",
+  "author": "IW",
+  "license": "GPL v2 o posterior",
+  "url": ""
+ },
+ {
+  "name": "Pinturas: Pilot2938-FG-liveries",
+  "author": "Pilot2938",
+  "license": "GPL v2 o posterior",
+  "url": ""
+ },
+ {
+  "name": "Pinturas: naviat-dev-FG-Liveries",
+  "author": "naviat-dev",
+  "license": "GPL v2 o posterior",
+  "url": ""
  }
 ]
